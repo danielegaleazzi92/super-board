@@ -1,3 +1,11 @@
+> **Branch `antigravity`** — the Google Antigravity integration ready to install: upstream `main`
+> plus [#81](https://github.com/EricTechPro/super-board/pull/81) [#82](https://github.com/EricTechPro/super-board/pull/82)
+> [#83](https://github.com/EricTechPro/super-board/pull/83) [#84](https://github.com/EricTechPro/super-board/pull/84)
+> (issue [#80](https://github.com/EricTechPro/super-board/issues/80)) and the Windows fix of
+> `guard-worktree-path.py` from [#72](https://github.com/EricTechPro/super-board/issues/72).
+> Install with `bash ~/super-board/install.sh --hosts agy --protect-main <project>`, then follow
+> "First run on Antigravity" in [docs/hosts.md](docs/hosts.md). Rebased on upstream as it moves.
+
 <div align="center">
 
 <img src="docs/assets/logo.svg" width="88" height="88" alt="super-board kanban logo">
